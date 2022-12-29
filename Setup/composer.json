@@ -1,6 +1,6 @@
 {
     "name": "lemonjar/meilisearch",
-    "description": "Module for Speedy Search using Meilisearch",
+    "description": "Module for speedy Search using Meilisearch",
     "type": "magento2-module",
     "version": "1.0.0",
     "require": {
