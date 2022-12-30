@@ -5,7 +5,8 @@
     "version": "1.0.0",
     "require": {
         "php": "^7.3",
-        "magento/framework": "101.0.*"
+        "magento/framework": "101.0.*",
+        "meilisearch/meilisearch-php": "0.26.*"
     },
     "autoload": {
         "files": [
