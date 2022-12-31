@@ -9,6 +9,7 @@
         "magento/framework": "101.0.*",
         "meilisearch/meilisearch-php": "0.26.*"
     },
+    "minimum-stability": "stable",
     "autoload": {
         "files": [
             "registration.php"
